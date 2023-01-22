@@ -1,0 +1,19 @@
+.option {
+  border: 1px solid rgb(95, 0, 248);
+  border-radius: 50px;
+  width: 130px;
+  font-weight: 600;
+  padding: 6px 0;
+  font-size: 13px;
+  color: rgb(95, 0, 248);
+  transition: all 0.1s;
+}
+
+.option:hover {
+  color: white;
+  background-color: rgb(95, 0, 248);
+}
+
+.option:hover {
+  cursor: pointer;
+}
